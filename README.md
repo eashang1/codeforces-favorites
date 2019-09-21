@@ -6,3 +6,7 @@ Links to problems:
 575C-RobotBreakout - https://codeforces.com/contest/1196/problem/C
 
 577C-MaximumMedian - https://codeforces.com/contest/1201/problem/C 
+
+587C-White Sheets - https://codeforces.com/contest/1216/problem/C
+
+
