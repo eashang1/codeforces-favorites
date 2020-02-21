@@ -10,3 +10,9 @@ Links to problems:
 587C - White Sheet - https://codeforces.com/contest/1216/problem/C
 
 594C - Ivan the Terrible and Probability Theory - https://codeforces.com/contest/1248/problem/C
+
+605D - Remove One Element - https://codeforces.com/contest/1272/problem/D
+
+620C - Air Conditioner - https://codeforces.com/contest/1304/problem/C
+
+621C - Cow and Message - https://codeforces.com/contest/1307/problem/C
