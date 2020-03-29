@@ -13,6 +13,8 @@ Links to problems:
 
 605D - Remove One Element - https://codeforces.com/contest/1272/problem/D
 
+617C - Yet Another Walking Robot - https://codeforces.com/contest/1296/problem/C
+
 620C - Air Conditioner - https://codeforces.com/contest/1304/problem/C
 
 621C - Cow and Message - https://codeforces.com/contest/1307/problem/C
