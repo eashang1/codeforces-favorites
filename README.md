@@ -17,6 +17,4 @@ Links to problems:
 
 620 C - Air Conditioner - https://codeforces.com/contest/1304/problem/C
 
-621 C - Cow and Message - https://codeforces.com/contest/1307/problem/C
-
 Education Round 83 C - Adding Powers - https://codeforces.com/contest/1312/problem/C
