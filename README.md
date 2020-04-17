@@ -18,3 +18,5 @@ Links to problems:
 620 C - Air Conditioner - https://codeforces.com/contest/1304/problem/C
 
 Education Round 83 C - Adding Powers - https://codeforces.com/contest/1312/problem/C
+
+633 D - Edge Weight Assignments - https://codeforces.com/contest/1339/problem/D
