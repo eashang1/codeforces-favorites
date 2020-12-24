@@ -20,3 +20,5 @@ Links to problems:
 Education Round 83 C - Adding Powers - https://codeforces.com/contest/1312/problem/C
 
 633 D - Edge Weight Assignments - https://codeforces.com/contest/1339/problem/D
+
+692 C - Peaceful Rooks - https://codeforces.com/contest/1465/problem/C
