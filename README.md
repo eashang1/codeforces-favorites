@@ -22,3 +22,5 @@ Education Round 83 C - Adding Powers - https://codeforces.com/contest/1312/probl
 633 D - Edge Weight Assignments - https://codeforces.com/contest/1339/problem/D
 
 692 C - Peaceful Rooks - https://codeforces.com/contest/1465/problem/C
+
+Educational Round 101 D - Ceil Divisions - https://codeforces.com/contest/1469/problem/D
