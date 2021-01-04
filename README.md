@@ -23,4 +23,6 @@ Education Round 83 C - Adding Powers - https://codeforces.com/contest/1312/probl
 
 692 C - Peaceful Rooks - https://codeforces.com/contest/1465/problem/C
 
+693 E - Correct Placement (<1 sec solution) - https://codeforces.com/contest/1472/problem/E
+
 Educational Round 101 D - Ceil Divisions - https://codeforces.com/contest/1469/problem/D
